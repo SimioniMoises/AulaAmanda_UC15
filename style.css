@@ -1,61 +1,80 @@
-body{
+#fonte{
 
-  margin: 10px;
-  padding: 10px;
-  font-size: large;
-  background-image: url("https://wallpapermoon.com/wp-content/uploads/2021/07/00890061.jpg");
-  opacity: 80%;
-   
-}
-
-h1{
-
-    padding-bottom: 20px;
-}
-h3{
-
-color: white;
-
-}
-
-h2{
-
-    color: white;
-}
-
-#longo 
-{
-
-    text-align: justify;
-    font-size: x-large;
-    font-family: 'Times New Roman', Times, serif;
-   
-}
-
-.principal 
-{
-
-    text-align: justify;
-    color: white; 
-    font-family: 'Times New Roman', Times, serif;
-    font-size: x-large;
-
-
-
-}
-
-.fazer
-{
-
-font-size: 40px ;
-color: white;
+background-color: #120632;
+font-family: Georgia;
 text-align: center;
-font-style: strong;
+color: #00a8ff;
+
 }
 
-table
+.principal{
+  
+font-family: Georgia;
+color: #120632;
+font-size: 4;
+font-style: strong;
+
+}
+
+.estilo
+
 {
 
-    
-    border-spacing: 0px;
+font-family: Georgia;
+font-size: 4;
+color: #120632;
+font-style: strong;
+align-self: center;
+text-align: center;
+
 }
+
+
+img{
+
+width: 400px;
+height: 320px;
+
+}
+
+.imagem
+{
+ 
+     
+ width: 50px;
+ height: 50px;
+     
+}
+
+#hr
+{
+
+width: 100%;
+border: 5px solid #120632;
+
+
+
+}
+
+
+
+
+
+.escopo
+{
+ 
+text-align: center;
+
+}
+
+
+.espaco{
+
+text-align: right;
+color: white;
+
+}
+
+
+
+
